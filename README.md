@@ -1,2 +1,2 @@
 # FadsFailures
-All my failed attempt at programming.
+All my failed attempts at programming.
